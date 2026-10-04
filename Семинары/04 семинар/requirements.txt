@@ -1,0 +1,6 @@
+numpy==2.5.1
+optuna==5.0.0
+scikit-learn==1.8.0
+notebook==7.6.1
+matplotlib==3.9.2
+
